@@ -1,0 +1,7 @@
+{
+  "name": "@yuehaiteam/cocogoat-resources",
+  "version": "1.0.3",
+  "description": "wasm files for cocogoat-web",
+  "main": "index.js",
+  "author": "yuehaiteam"
+}
